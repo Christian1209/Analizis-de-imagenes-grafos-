@@ -1,0 +1,88 @@
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\UsoDeImagenes\bin\Debug\UsoDeImagenes.exe.config
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\UsoDeImagenes\bin\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\UsoDeImagenes\bin\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\UsoDeImagenes\obj\Debug\UsoDeImagenes.csproj.AssemblyReference.cache
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\UsoDeImagenes\obj\Debug\UsoDeImagenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\UsoDeImagenes\obj\Debug\UsoDeImagenes.Properties.Resources.resources
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\UsoDeImagenes\obj\Debug\UsoDeImagenes.csproj.GenerateResource.cache
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\UsoDeImagenes\obj\Debug\UsoDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\UsoDeImagenes\obj\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\UsoDeImagenes\obj\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\UsoDeImagenes\obj\Debug\UsoDeImagenes.Form1.resources
+C:\Users\misa_\OneDrive\Escritorio\act1 ssalgoritmia\FigueroaRodríguezChristianMisaelCF\bin\Debug\UsoDeImagenes.exe.config
+C:\Users\misa_\OneDrive\Escritorio\act1 ssalgoritmia\FigueroaRodríguezChristianMisaelCF\bin\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\act1 ssalgoritmia\FigueroaRodríguezChristianMisaelCF\bin\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\act1 ssalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.csproj.AssemblyReference.cache
+C:\Users\misa_\OneDrive\Escritorio\act1 ssalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\misa_\OneDrive\Escritorio\act1 ssalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.Form1.resources
+C:\Users\misa_\OneDrive\Escritorio\act1 ssalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.Properties.Resources.resources
+C:\Users\misa_\OneDrive\Escritorio\act1 ssalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.csproj.GenerateResource.cache
+C:\Users\misa_\OneDrive\Escritorio\act1 ssalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\misa_\OneDrive\Escritorio\act1 ssalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\act1 ssalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\act3sspalgoritmia\FigueroaRodríguezChristianMisaelCF\bin\Debug\UsoDeImagenes.exe.config
+C:\Users\misa_\OneDrive\Escritorio\act3sspalgoritmia\FigueroaRodríguezChristianMisaelCF\bin\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\act3sspalgoritmia\FigueroaRodríguezChristianMisaelCF\bin\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\act3sspalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.csproj.AssemblyReference.cache
+C:\Users\misa_\OneDrive\Escritorio\act3sspalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\misa_\OneDrive\Escritorio\act3sspalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.Form1.resources
+C:\Users\misa_\OneDrive\Escritorio\act3sspalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.Properties.Resources.resources
+C:\Users\misa_\OneDrive\Escritorio\act3sspalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.csproj.GenerateResource.cache
+C:\Users\misa_\OneDrive\Escritorio\act3sspalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\misa_\OneDrive\Escritorio\act3sspalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\act3sspalgoritmia\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\FigueroaRodríguezChristianMisaelCF\bin\Debug\UsoDeImagenes.exe.config
+C:\Users\misa_\OneDrive\Escritorio\FigueroaRodríguezChristianMisaelCF\bin\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\FigueroaRodríguezChristianMisaelCF\bin\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.csproj.AssemblyReference.cache
+C:\Users\misa_\OneDrive\Escritorio\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\misa_\OneDrive\Escritorio\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.Form1.resources
+C:\Users\misa_\OneDrive\Escritorio\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.Properties.Resources.resources
+C:\Users\misa_\OneDrive\Escritorio\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.csproj.GenerateResource.cache
+C:\Users\misa_\OneDrive\Escritorio\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\misa_\OneDrive\Escritorio\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\FigueroaRodríguezChristianMisaelCF\obj\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\act 4 canaya\bin\Debug\UsoDeImagenes.exe.config
+C:\Users\misa_\OneDrive\Escritorio\act 4 canaya\bin\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\act 4 canaya\bin\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\act 4 canaya\obj\Debug\UsoDeImagenes.csproj.AssemblyReference.cache
+C:\Users\misa_\OneDrive\Escritorio\act 4 canaya\obj\Debug\UsoDeImagenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\misa_\OneDrive\Escritorio\act 4 canaya\obj\Debug\UsoDeImagenes.Form1.resources
+C:\Users\misa_\OneDrive\Escritorio\act 4 canaya\obj\Debug\UsoDeImagenes.Properties.Resources.resources
+C:\Users\misa_\OneDrive\Escritorio\act 4 canaya\obj\Debug\UsoDeImagenes.csproj.GenerateResource.cache
+C:\Users\misa_\OneDrive\Escritorio\act 4 canaya\obj\Debug\UsoDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\misa_\OneDrive\Escritorio\act 4 canaya\obj\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\act 4 canaya\obj\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\act 4 anaya\bin\Debug\UsoDeImagenes.exe.config
+C:\Users\misa_\OneDrive\Escritorio\act 4 anaya\bin\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\act 4 anaya\bin\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\act 4 anaya\obj\Debug\UsoDeImagenes.csproj.AssemblyReference.cache
+C:\Users\misa_\OneDrive\Escritorio\act 4 anaya\obj\Debug\UsoDeImagenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\misa_\OneDrive\Escritorio\act 4 anaya\obj\Debug\UsoDeImagenes.Form1.resources
+C:\Users\misa_\OneDrive\Escritorio\act 4 anaya\obj\Debug\UsoDeImagenes.Properties.Resources.resources
+C:\Users\misa_\OneDrive\Escritorio\act 4 anaya\obj\Debug\UsoDeImagenes.csproj.GenerateResource.cache
+C:\Users\misa_\OneDrive\Escritorio\act 4 anaya\obj\Debug\UsoDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\misa_\OneDrive\Escritorio\act 4 anaya\obj\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\act 4 anaya\obj\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\act 5\act 5\bin\Debug\UsoDeImagenes.exe.config
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\act 5\act 5\bin\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\act 5\act 5\bin\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\act 5\act 5\obj\Debug\UsoDeImagenes.csproj.AssemblyReference.cache
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\act 5\act 5\obj\Debug\UsoDeImagenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\act 5\act 5\obj\Debug\UsoDeImagenes.Form1.resources
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\act 5\act 5\obj\Debug\UsoDeImagenes.Properties.Resources.resources
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\act 5\act 5\obj\Debug\UsoDeImagenes.csproj.GenerateResource.cache
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\act 5\act 5\obj\Debug\UsoDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\act 5\act 5\obj\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\SSPALGORITMIA\act 5\act 5\obj\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\Subir a github\act 5\bin\Debug\UsoDeImagenes.exe.config
+C:\Users\misa_\OneDrive\Escritorio\Subir a github\act 5\bin\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\Subir a github\act 5\bin\Debug\UsoDeImagenes.pdb
+C:\Users\misa_\OneDrive\Escritorio\Subir a github\act 5\obj\Debug\UsoDeImagenes.csproj.AssemblyReference.cache
+C:\Users\misa_\OneDrive\Escritorio\Subir a github\act 5\obj\Debug\UsoDeImagenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\misa_\OneDrive\Escritorio\Subir a github\act 5\obj\Debug\UsoDeImagenes.Form1.resources
+C:\Users\misa_\OneDrive\Escritorio\Subir a github\act 5\obj\Debug\UsoDeImagenes.Properties.Resources.resources
+C:\Users\misa_\OneDrive\Escritorio\Subir a github\act 5\obj\Debug\UsoDeImagenes.csproj.GenerateResource.cache
+C:\Users\misa_\OneDrive\Escritorio\Subir a github\act 5\obj\Debug\UsoDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\misa_\OneDrive\Escritorio\Subir a github\act 5\obj\Debug\UsoDeImagenes.exe
+C:\Users\misa_\OneDrive\Escritorio\Subir a github\act 5\obj\Debug\UsoDeImagenes.pdb
